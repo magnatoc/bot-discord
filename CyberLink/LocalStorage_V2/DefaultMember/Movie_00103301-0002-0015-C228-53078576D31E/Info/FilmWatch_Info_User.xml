@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Info Version="" ClientVersion="2.0" FingerPrint="00103301-0002-0015-C228-53078576D31E" QueryLanguage="0x040C">
+	<FilmWatch DiscSetId="" FilmWatchId="" MethodId="filmwatch.method.pdvd" MethodName="PowerDVD" DateTime="2018/10/25 10:04:17" TypeID="type.dvd" TypeName="DVD" Note="" MarkDeleted="false" Guid="3AA474C3-FB99-41BC-9DF8-178B2916AD08" UpdateTime="2018/10/25 08:04:17"/>
+	<FilmWatch DiscSetId="" FilmWatchId="" MethodId="filmwatch.method.pdvd" MethodName="PowerDVD" DateTime="2018/10/25 10:07:14" TypeID="type.dvd" TypeName="DVD" Note="" MarkDeleted="false" Guid="AE31963A-7B85-42C3-A572-DBB9B1F6B022" UpdateTime="2018/10/25 08:07:14"/>
+	<FilmWatch DiscSetId="" FilmWatchId="" MethodId="filmwatch.method.pdvd" MethodName="PowerDVD" DateTime="2018/10/25 10:09:28" TypeID="type.dvd" TypeName="DVD" Note="" MarkDeleted="false" Guid="38B56C66-1EBC-4B07-826C-EB7055A70042" UpdateTime="2018/10/25 08:09:28"/>
+	<FilmWatch DiscSetId="" FilmWatchId="" MethodId="filmwatch.method.pdvd" MethodName="PowerDVD" DateTime="2018/10/25 10:12:29" TypeID="type.dvd" TypeName="DVD" Note="" MarkDeleted="false" Guid="5FD7A178-588E-4D86-A426-5A294ADBDB05" UpdateTime="2018/10/25 08:12:29"/>
+	<FilmWatch DiscSetId="" FilmWatchId="" MethodId="filmwatch.method.pdvd" MethodName="PowerDVD" DateTime="2018/10/25 10:15:40" TypeID="type.dvd" TypeName="DVD" Note="" MarkDeleted="false" Guid="1ECC25F5-B652-4AE3-B155-72EEAEF92D88" UpdateTime="2018/10/25 08:15:40"/>
+	<FilmWatch DiscSetId="" FilmWatchId="" MethodId="filmwatch.method.pdvd" MethodName="PowerDVD" DateTime="2018/10/25 10:18:37" TypeID="type.dvd" TypeName="DVD" Note="" MarkDeleted="false" Guid="EF3BFD3E-7B03-41F3-920F-9F0E8919F7C2" UpdateTime="2018/10/25 08:18:37"/>
+	<FilmWatch DiscSetId="" FilmWatchId="" MethodId="filmwatch.method.pdvd" MethodName="PowerDVD" DateTime="2018/10/25 10:49:41" TypeID="type.dvd" TypeName="DVD" Note="" MarkDeleted="false" Guid="902134C7-E07D-4AD2-B7EC-607E45D692E0" UpdateTime="2018/10/25 08:49:41"/>
+	<FilmWatch DiscSetId="" FilmWatchId="" MethodId="filmwatch.method.pdvd" MethodName="PowerDVD" DateTime="2018/10/25 11:22:27" TypeID="type.dvd" TypeName="DVD" Note="" MarkDeleted="false" Guid="6D3CA8E1-0CBD-4433-977E-51FC1D6EAEAF" UpdateTime="2018/10/25 09:22:27"/>
+</Info>

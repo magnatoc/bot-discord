@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Info Version="" ClientVersion="2.0" FingerPrint="00103301-0002-0015-C228-53078576D31E" QueryLanguage="0x040C" Action="create">
+	<Disc DiscBoxId="" DiscBoxName="" DiscSetId="" IsNewDiscSetId="false" DiscId="" VideoSignal="PAL" VideoFormat="MPEG-2" ParentalLevel="1" RunTime="111" AspectRatio="16:9" DiscFormat="DVD" Region="2" Layers="2" IA="false" Trailer="false" Commentary="false" DeletedScenes="false" GlobalRating="0.000000" ChapterNum="21" PictureURL="" DiscOrder="1" UpdateTime="2018/10/25 07:49:10">
+		<SoundMix SoundMixId="" SoundMixName="Dolby Digital" LanguageId="0x0409" LanguageName="Anglais (États-Unis)" LanguageExtId="" LanguageExtName="" ChannelNum="6"/>
+		<SoundMix SoundMixId="" SoundMixName="Dolby Digital" LanguageId="0x040C" LanguageName="Français (France)" LanguageExtId="" LanguageExtName="" ChannelNum="6"/>
+		<SoundMix SoundMixId="" SoundMixName="DTS" LanguageId="0x040C" LanguageName="Français (France)" LanguageExtId="" LanguageExtName="" ChannelNum="6"/>
+		<SoundMix SoundMixId="" SoundMixName="Dolby Digital" LanguageId="0x0409" LanguageName="Anglais (États-Unis)" LanguageExtId="soundmix.LanguageExtId.DirectorComments1" LanguageExtName="" ChannelNum="2"/>
+		<Subtitle LanguageId="0x0409" LanguageName="Anglais (États-Unis)" LanguageExtId="" LanguageExtName=""/>
+		<Subtitle LanguageId="0x040C" LanguageName="Français (France)" LanguageExtId="" LanguageExtName=""/>
+		<Subtitle LanguageId="0x0402" LanguageName="Bulgare (Bulgarie)" LanguageExtId="" LanguageExtName=""/>
+		<Subtitle LanguageId="0x0401" LanguageName="Arabe (Arabie séoudite)" LanguageExtId="" LanguageExtName=""/>
+		<Subtitle LanguageId="0x0409" LanguageName="Anglais (États-Unis)" LanguageExtId="subtitle.LanguageExtId.DirectorComments_Normal" LanguageExtName=""/>
+		<Subtitle LanguageId="0x040C" LanguageName="Français (France)" LanguageExtId="subtitle.LanguageExtId.DirectorComments_Normal" LanguageExtName=""/>
+		<Subtitle LanguageId="0x0402" LanguageName="Bulgare (Bulgarie)" LanguageExtId="subtitle.LanguageExtId.DirectorComments_Normal" LanguageExtName=""/>
+		<Subtitle LanguageId="0x0401" LanguageName="Arabe (Arabie séoudite)" LanguageExtId="subtitle.LanguageExtId.DirectorComments_Normal" LanguageExtName=""/>
+		<Subtitle LanguageId="0x040C" LanguageName="Français (France)" LanguageExtId="" LanguageExtName=""/>
+		<Subtitle LanguageId="0x0409" LanguageName="Anglais (États-Unis)" LanguageExtId="" LanguageExtName=""/>
+	</Disc>
+	<Title DiscSetId="" TitleId="0" TitleName="" UpdateTime="2018/10/25 07:49:10">
+		<Chapter ChapterId="0" ChapterName="" Duration="00:04:01"/>
+		<Chapter ChapterId="1" ChapterName="" Duration="00:02:27"/>
+		<Chapter ChapterId="2" ChapterName="" Duration="00:04:45"/>
+		<Chapter ChapterId="3" ChapterName="" Duration="00:06:03"/>
+		<Chapter ChapterId="4" ChapterName="" Duration="00:09:43"/>
+		<Chapter ChapterId="5" ChapterName="" Duration="00:03:10"/>
+		<Chapter ChapterId="6" ChapterName="" Duration="00:06:52"/>
+		<Chapter ChapterId="7" ChapterName="" Duration="00:02:35"/>
+		<Chapter ChapterId="8" ChapterName="" Duration="00:06:15"/>
+		<Chapter ChapterId="9" ChapterName="" Duration="00:07:40"/>
+		<Chapter ChapterId="10" ChapterName="" Duration="00:02:49"/>
+		<Chapter ChapterId="11" ChapterName="" Duration="00:06:11"/>
+		<Chapter ChapterId="12" ChapterName="" Duration="00:10:55"/>
+		<Chapter ChapterId="13" ChapterName="" Duration="00:03:25"/>
+		<Chapter ChapterId="14" ChapterName="" Duration="00:06:51"/>
+		<Chapter ChapterId="15" ChapterName="" Duration="00:03:39"/>
+		<Chapter ChapterId="16" ChapterName="" Duration="00:10:03"/>
+		<Chapter ChapterId="17" ChapterName="" Duration="00:04:48"/>
+		<Chapter ChapterId="18" ChapterName="" Duration="00:04:31"/>
+		<Chapter ChapterId="19" ChapterName="" Duration="00:04:25"/>
+		<Chapter ChapterId="20" ChapterName="" Duration="00:00:01"/>
+	</Title>
+</Info>

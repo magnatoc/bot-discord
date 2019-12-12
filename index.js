@@ -3,7 +3,7 @@ const client = new Discord.Client();
 
 const fs = require('fs');
 
-client.login("NjU0MjkyOTU0OTAyNDI5Njk2.XfKDwg.GFvGwTe65KwJon9bfX0QyDFPvag");
+client.login("token");
 
 client.commands = new Discord.Collection();
 
